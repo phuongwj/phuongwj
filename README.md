@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi! i'm phuong, also known as julia 
 
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
