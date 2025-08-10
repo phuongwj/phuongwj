@@ -1,5 +1,7 @@
 ## hi! i'm phuong, also known as julia 
 
+i'm currently in my third year of my bachelors degree, studying Computer Science at Dalhousie University, located in Halifax, NS! 
+
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
