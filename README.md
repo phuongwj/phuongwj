@@ -1,4 +1,4 @@
-## hi! i'm phuong, also known as julia 
+## hey i'm phuong, also known as julia 🍵
 
 i'm currently in my third year of my bachelors degree, studying Computer Science at Dalhousie University, located in Halifax, NS! 
 
