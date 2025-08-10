@@ -1,4 +1,6 @@
 ## Hi I'm Phuong, also known as Julia :)
+
+I'm a third-year undergraduate student at Dalhousie University
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
