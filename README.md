@@ -1,8 +1,8 @@
 ## Hi I'm Phuong (aka Julia) 🤗 
 
-I'm currently a third-year undergraduate student at Dalhousie University
+- 🤔 I'm currently a third-year undergraduate student at Dalhousie University
 
-Feel free to reach out to me at phuong.pham@dal.ca
+- 📬 Feel free to reach out to me at phuong.pham@dal.ca
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
