@@ -1,4 +1,4 @@
-# Hi I'm Phuong (aka Julia) 🤗 
+# Heyy, I'm Julia 🤗 
 
 - 🤔 I'm currently a third-year undergraduate student at Dalhousie University
 
