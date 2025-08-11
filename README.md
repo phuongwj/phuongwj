@@ -1,4 +1,4 @@
-# Julia 🤗 
+## Julia 🤗 
 
 - 🤔 Third-year Computer Science student at Dalhousie University
 
