@@ -1,4 +1,4 @@
-# Heyy, I'm Julia 🤗 
+# Julia 🤗 
 
 - 🤔 I'm currently a third-year undergraduate student at Dalhousie University
 
