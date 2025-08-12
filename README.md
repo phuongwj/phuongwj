@@ -1,6 +1,8 @@
 ## Julia 🤗 
 
 - 🤔 Third-year Computer Science student at Dalhousie University
+- 🙏 Passed internship experiences:
+  + ![sprypoint_logo](assets/sprypoint_logo.png)
 - 📬 Reach me at phuong.pham@dal.ca
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
