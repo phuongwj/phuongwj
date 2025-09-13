@@ -1,4 +1,4 @@
-## Julia 🤗 
+## Julia 👋🤗 
 
 - 🤔 Third-year Computer Science student at Dalhousie University
 - 📬 Reach me at phuong.pham@dal.ca / phamjulia9@gmail.com
