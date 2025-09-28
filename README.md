@@ -1,6 +1,7 @@
 ## Julia 🤗 
 
 - 🤔 Third-year Computer Science student at Dalhousie University
+- 🥖 Part-time helper at my sister’s small business
 - 📬 Reach me at phuong.pham@dal.ca / phamjulia9@gmail.com
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
