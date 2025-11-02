@@ -3,6 +3,7 @@
 - 🤔 Third-year Computer Science student at Dalhousie University.
 - 🌊 Aspiring to become a well-rounded Software Engineer.
 - 🍰 Part-time helper at my [sister’s small business](https://www.instagram.com/boiboi.eatery/?hl=en).
+- 😌 I try to make contributions on GitHub every day, even if they’re small.
 - 📬 Reach me at phuong.pham@dal.ca / phamjulia9@gmail.com.
 <!--
 **phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
