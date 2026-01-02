@@ -1,21 +1,20 @@
-## Julia 🤗 
+# Hi there, I'm Phuong (aka Julia) 🤗
 
-- 🤔 Third-year Computer Science student at Dalhousie University.
-- 🌊 Aspiring to become a well-rounded Software Engineer.
-- 🍰 Part-time helper at my [sister’s small business](https://www.instagram.com/boiboi.eatery/?hl=en).
-- 😌 I try to make contributions on GitHub every day, even if they’re small.
-- 📬 Reach me at phuong.pham@dal.ca / phamjulia9@gmail.com.
-<!--
-**phuongwj/phuongwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about about learning and working in areas like Full-Stack Developmet, Cloud Computing, and AI/ML.
 
-Here are some ideas to get you started:
+## What am I currently doing?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Third-year Computer Science student at Dalhousie University.
+- Full Stack Developer Co-op at PRAXES Medical Group.
+- Executive of Dalhousie Computer Science Leaders Society (DalCSL).
+- Part-time helper at my [sister’s small business](https://www.instagram.com/boiboi.eatery/?hl=en).
+
+## Past Experiences
+
+- Software Developer Intern @ SpryPoint
+- Teaching Assistant (Intro to Computer Programming, Computer Science, Web Development) @ Dalhousie University
+- Web Developer Intern @ HCI4Good Lab, Dalhousie University
+
+## Contact
+
+- Reach me at phuong.pham@dal.ca or phamjulia9@gmail.com.
