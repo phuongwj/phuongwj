@@ -1,6 +1,6 @@
 # Hi there, I'm Phuong (aka Julia) 🤗
 
-I'm passionate about about learning and working in areas like Full-Stack Developmet, Cloud Computing, and AI/ML.
+I'm passionate about about learning and working in areas like Full-Stack Development, Cloud Computing, and AI/ML.
 
 ## What am I currently doing?
 
