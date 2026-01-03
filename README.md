@@ -1,6 +1,6 @@
 # Hi there, I'm Phuong (aka Julia) 🤗
 
-I'm passionate about about learning and working in areas like Full-Stack Development, Cloud Computing, and AI/ML.
+I'm passionate about learning and working in areas like Full-Stack Development, Cloud Computing, and AI/ML.
 
 ## What am I currently doing?
 
@@ -17,4 +17,5 @@ I'm passionate about about learning and working in areas like Full-Stack Develop
 
 ## Contact
 
-- Reach me at phuong.pham@dal.ca or phamjulia9@gmail.com.
+- **Email:** phuong.pham@dal.ca or phamjulia9@gmail.com.
+- **LinkedIn:** [Phuong Pham](https://www.linkedin.com/in/phuongwj/)
