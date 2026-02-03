@@ -7,7 +7,7 @@ I'm passionate about learning and working in areas like **Software Engineering, 
 - Third-year Computer Science student at Dalhousie University.
 - Full-Stack Developer Co-op at PRAXES Medical Group.
 - Executive of Dalhousie Computer Science Leaders Society (DalCSL).
-- Part-time helper at my [sister’s small business](https://www.instagram.com/boiboi.eatery/?hl=en).
+- Part-time helper at my [sister’s online business](https://www.instagram.com/boiboi.eatery/?hl=en).
 
 ## Past Experiences
 
